@@ -16,7 +16,7 @@ GitHub |  [@shu130](http://github.com/shu130)  (http://github.com/shu130)
 ### 資格
 
 
-取得年月  | 資格名
+取得年月  | 資格
 --|--
 2008/04  | Cisco Certified Network Associate (CCNA) 取得
 2014/02  | Cisco Certified Network Associate (CCNA) 取得
